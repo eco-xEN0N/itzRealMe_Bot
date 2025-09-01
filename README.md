@@ -1,3 +1,5 @@
+# Telegram bot 
+
 Telegram Book & VPN Bot
 A Telegram bot that provides book recommendations using the Google Books API and distributes VPN codes upon subscribing to required Telegram channels. Admins can manage the list of required channels and set an active VPN code dynamically without editing configuration files. The bot includes anti-spam measures to prevent abuse. Built with Node.js and free, open-source dependencies for a cost-effective solution.
 Table of Contents
